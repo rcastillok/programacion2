@@ -19,7 +19,11 @@ int main()
                 suma += numero;
             }
         }
-     prom=suma/cdiv3;
+     if (cdiv3>0)
+        {prom=suma/cdiv3;}
+     else
+        { prom=0;}
+
      cout<<"Contador de divisibles entre 3  es :"<<cdiv3<<"\n";
      cout<<"Promedio de los divisibles entre 3 :"<<prom<<"\n";
     return 0;
