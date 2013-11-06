@@ -18,6 +18,7 @@ int main()
     char resp;
     int nota, promedio, notamax, alumnomax,suma;
     char nombreMayor[30];
+    char estado[15];
 
     alumnomax=0;
     do
@@ -38,8 +39,17 @@ int main()
 
         }
         promedio=suma/3;
+        if (promedio>=60)
+        {
+            strcpy(estado,"Aprobado");
+        }
+        else
+        {
+            strcpy(estado,"Reprobado");
+        }
         cout<<"Promedio del alumno..:"<<promedio<<"\n";
         cout<<"Nota mayor es ...:"<<notamax<<"\n";
+        cout<<"Estado de la nota ..:"<<estado<<"\n";
         _flushall();
         if (alumnomax<promedio)
         {

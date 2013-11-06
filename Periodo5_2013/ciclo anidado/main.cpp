@@ -18,8 +18,8 @@ int main()
         {
             cout<<"Ingresar un numero entre 1-100...:";
             cin>>numero;
-        }while ((numero<1) or (numero>100));
-
+        //}while ((numero<1) or (numero>100));
+        }while (!((numero>=1) and (numero<=100)))
         _flushall();
         do
         {
