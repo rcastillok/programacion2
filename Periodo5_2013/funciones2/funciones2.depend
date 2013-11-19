@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1384377865 source:c:\users\rommel\documents\github\programacion2\periodo5_2013\funciones2\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
