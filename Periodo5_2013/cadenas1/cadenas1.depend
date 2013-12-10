@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1378766986 source:c:\users\rommel\desktop\archivo\prograc\periodo4_2013\cadenas1\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

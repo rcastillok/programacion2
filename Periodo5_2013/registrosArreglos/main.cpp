@@ -10,6 +10,7 @@ struct empleados
 const int tam=5;
 empleados emple[tam];
 empleados emplemax;
+
 empleados mayorempleado(empleados emple[])
 {   empleados auxmayor;
     auxmayor.comis=0;
