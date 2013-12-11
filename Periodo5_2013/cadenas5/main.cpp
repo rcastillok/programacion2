@@ -89,8 +89,7 @@ void presentar(char cadena[n][30],int consonante[])
 
 }
 void presentarMayor(char cadena[n][30],int consonante[])
-{
-    int i,pos,mayor;
+{    int i,pos,mayor;
     mayor=0;
 
     for(i=0;i<n;i++)
@@ -102,9 +101,7 @@ void presentarMayor(char cadena[n][30],int consonante[])
         }
     }
     cout<<"Mayor es "<<cadena[pos]<<" Con "<<mayor<<" \n";
-
 }
-
 int main()
 {   ingreso(cadena);
     contarConsonantes(cadena,consonante);
