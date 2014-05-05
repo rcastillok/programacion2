@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1397170302 source:c:\users\rommel\documents\github\programacion2\periodo2_2014\prg4\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
