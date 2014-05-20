@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1400516736 source:c:\users\rommel\documents\github\programacion2\periodo2_2014\examen\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
