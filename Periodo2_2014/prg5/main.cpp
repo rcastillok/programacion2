@@ -8,7 +8,7 @@ Determinar si un numero es par o impar
 */
 int main()
 {   int numero,numero2;
-    srand(time(0))
+    srand(time(0));
     cout << "Numero ...>" ;
     cin>>numero;
     if (numero % 2==0)

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1402355541 source:c:\users\rommel\documents\github\programacion2\periodo2_2014\cadena4\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
