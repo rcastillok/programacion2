@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1408404299 source:c:\users\rommel\documents\github\programacion2\periodo4_2014\repaso\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+
