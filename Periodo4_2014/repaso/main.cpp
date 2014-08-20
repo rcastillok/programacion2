@@ -40,7 +40,7 @@ int sumaCifras(int num)
 }
 void presentar(int num)
 {
-   int c,numx,i;
+   int numx,i;
 
     while (num>0)
     {
@@ -66,12 +66,14 @@ char pedirrespuesta()
             } while ((respx !='S') and  (respx !='N'));
         return respx;
 }
+
+int num,xsuma;
+char resp;
+
 int main()
 
 {
 
-    int num,xsuma;
-    char resp;
  do{
     num=generarNumero();
     xsuma=sumaCifras(num);
