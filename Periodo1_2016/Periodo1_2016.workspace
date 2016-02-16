@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="programa1/programa1.cbp" />
+		<Project filename="progama1b/progama1b.cbp" />
+		<Project filename="prg3/prg3.cbp" />
+		<Project filename="prg4/prg4.cbp" />
+		<Project filename="prg5/prg5.cbp" />
+		<Project filename="prg6/prg6.cbp" />
+		<Project filename="prg7/prg7.cbp" />
+		<Project filename="prg8/prg8.cbp" />
+		<Project filename="prg9/prg9.cbp" />
+		<Project filename="Prg10/Prg10.cbp" />
+		<Project filename="Programa12/Programa12.cbp" />
+		<Project filename="TareaSemana2/TareaSemana2.cbp" />
+		<Project filename="loopWhile/loopWhile.cbp" />
+		<Project filename="../archivo/PrograC/periodo4_2013/ciclowhileValidar2/ciclowhileValidar2.cbp" />
+		<Project filename="validarNumero/validarNumero.cbp" />
+		<Project filename="validarSoN/validarSoN.cbp" />
+		<Project filename="Prueba/Prueba.cbp" />
+		<Project filename="cicloAnidado/cicloAnidado.cbp" />
+		<Project filename="Numeros/Numeros.cbp" />
+		<Project filename="tabla/tabla.cbp" />
+		<Project filename="tareaCiclos/tareaCiclos.cbp" />
+		<Project filename="procedimientos1/procedimientos1.cbp" />
+		<Project filename="procedimientos2/procedimientos2.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
